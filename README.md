@@ -2,6 +2,4 @@
 
 This is a demo project to learn a bit of git
 
-Test 1234
-
-Test 5678
+Today is a really shitty day
